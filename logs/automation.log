@@ -1,0 +1,252 @@
+13:26:58.064 [main] INFO  testCases.TC_001_AccountRegistrationTest - ******starting TC_001_AccountRegistrationTest ****
+13:26:58.185 [main] INFO  testCases.TC_001_AccountRegistrationTest - Home Url Validation: https://automationexercise.com/
+13:26:59.281 [main] INFO  testCases.TC_001_AccountRegistrationTest - Signup Link Check true
+13:27:01.397 [main] INFO  testCases.TC_001_AccountRegistrationTest - Signup Link clicked
+13:27:01.418 [main] INFO  testCases.TC_001_AccountRegistrationTest - Login Page Url: https://automationexercise.com/login
+13:27:01.837 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validated Signup Page Title Header: New User Signup!
+13:27:01.837 [main] INFO  testCases.TC_001_AccountRegistrationTest - Entered Name and Email
+13:27:04.805 [main] INFO  testCases.TC_001_AccountRegistrationTest - Signup Link Clicked in Login Page
+13:27:43.090 [main] INFO  testCases.TC_003_DDT_LoginTest - ******starting TC_003_DDT_LoginTest ****
+13:27:43.227 [main] INFO  testCases.TC_003_DDT_LoginTest - Signup Link Check true
+13:27:49.518 [main] INFO  testCases.TC_003_DDT_LoginTest - Signup/Login Link clicked
+13:27:49.601 [main] INFO  testCases.TC_003_DDT_LoginTest - Validated Login Header: Login to your account
+13:27:51.196 [main] INFO  testCases.TC_003_DDT_LoginTest - Login Details Entered
+13:27:55.896 [main] INFO  testCases.TC_003_DDT_LoginTest - Login Button Clicked
+13:28:07.172 [main] INFO  testCases.TC_003_DDT_LoginTest - ******starting TC_003_DDT_LoginTest ****
+13:28:07.237 [main] INFO  testCases.TC_003_DDT_LoginTest - Signup Link Check true
+13:28:12.079 [main] INFO  testCases.TC_003_DDT_LoginTest - Signup/Login Link clicked
+13:28:12.116 [main] INFO  testCases.TC_003_DDT_LoginTest - Validated Login Header: Login to your account
+13:28:16.055 [main] INFO  testCases.TC_003_DDT_LoginTest - Login Details Entered
+13:28:18.777 [main] INFO  testCases.TC_003_DDT_LoginTest - Login Button Clicked
+13:28:19.012 [main] INFO  testCases.TC_003_DDT_LoginTest - Expected Error MessageYour email or password is incorrect! ExistInvalid
+13:28:29.036 [main] INFO  testCases.TC_003_DDT_LoginTest - Login failed for Invalid
+13:28:49.120 [main] INFO  testCases.TC_003_DDT_LoginTest - Logout Link not exist: Passed
+13:28:49.127 [main] INFO  testCases.TC_003_DDT_LoginTest - ******starting TC_003_DDT_LoginTest ****
+13:28:49.224 [main] INFO  testCases.TC_003_DDT_LoginTest - Signup Link Check true
+13:28:53.590 [main] INFO  testCases.TC_003_DDT_LoginTest - Signup/Login Link clicked
+13:28:53.618 [main] INFO  testCases.TC_003_DDT_LoginTest - Validated Login Header: Login to your account
+13:28:55.154 [main] INFO  testCases.TC_003_DDT_LoginTest - Login Details Entered
+13:29:02.038 [main] INFO  testCases.TC_003_DDT_LoginTest - Login Button Clicked
+13:29:02.134 [main] INFO  testCases.TC_003_DDT_LoginTest - Expected Error MessageYour email or password is incorrect! ExistInvalid
+13:29:12.230 [main] INFO  testCases.TC_003_DDT_LoginTest - Login failed for Invalid
+13:29:32.327 [main] INFO  testCases.TC_003_DDT_LoginTest - Logout Link not exist: Passed
+13:29:32.332 [main] INFO  testCases.TC_003_DDT_LoginTest - ******starting TC_003_DDT_LoginTest ****
+13:29:32.399 [main] INFO  testCases.TC_003_DDT_LoginTest - Signup Link Check true
+13:29:36.304 [main] INFO  testCases.TC_003_DDT_LoginTest - Signup/Login Link clicked
+13:29:36.345 [main] INFO  testCases.TC_003_DDT_LoginTest - Validated Login Header: Login to your account
+13:29:37.764 [main] INFO  testCases.TC_003_DDT_LoginTest - Login Details Entered
+13:29:39.139 [main] INFO  testCases.TC_003_DDT_LoginTest - Login Button Clicked
+13:29:40.835 [main] INFO  testCases.TC_003_DDT_LoginTest - Expected Error MessageYour email or password is incorrect! ExistInvalid
+13:29:50.928 [main] INFO  testCases.TC_003_DDT_LoginTest - Login failed for Invalid
+13:30:11.008 [main] INFO  testCases.TC_003_DDT_LoginTest - Logout Link not exist: Passed
+13:30:11.017 [main] INFO  testCases.TC_003_DDT_LoginTest - ******starting TC_003_DDT_LoginTest ****
+13:30:11.107 [main] INFO  testCases.TC_003_DDT_LoginTest - Signup Link Check true
+13:30:14.377 [main] INFO  testCases.TC_003_DDT_LoginTest - Signup/Login Link clicked
+13:30:14.460 [main] INFO  testCases.TC_003_DDT_LoginTest - Validated Login Header: Login to your account
+13:30:15.883 [main] INFO  testCases.TC_003_DDT_LoginTest - Login Details Entered
+13:30:26.051 [main] INFO  testCases.TC_003_DDT_LoginTest - Login Button Clicked
+13:30:26.182 [main] INFO  testCases.TC_003_DDT_LoginTest - Logged in user is: Logged in as ValidTest
+13:30:26.247 [main] INFO  testCases.TC_003_DDT_LoginTest - Logout Link Check true
+13:30:31.051 [main] INFO  testCases.TC_003_DDT_LoginTest - Logout Clicked
+13:38:43.001 [main] INFO  testCases.TC_001_AccountRegistrationTest - ******starting TC_001_AccountRegistrationTest ****
+13:38:43.070 [main] INFO  testCases.TC_001_AccountRegistrationTest - Home Url Validation: https://automationexercise.com/
+13:38:43.233 [main] INFO  testCases.TC_001_AccountRegistrationTest - Signup Link Check true
+13:38:44.868 [main] INFO  testCases.TC_001_AccountRegistrationTest - Signup Link clicked
+13:38:44.886 [main] INFO  testCases.TC_001_AccountRegistrationTest - Login Page Url: https://automationexercise.com/login
+13:38:44.938 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validated Signup Page Title Header: New User Signup!
+13:38:44.938 [main] INFO  testCases.TC_001_AccountRegistrationTest - Entered Name and Email
+13:38:49.352 [main] INFO  testCases.TC_001_AccountRegistrationTest - Signup Link Clicked in Login Page
+13:38:49.403 [main] INFO  testCases.TC_001_AccountRegistrationTest - Valid Email and Name Entered 
+13:38:49.417 [main] INFO  testCases.TC_001_AccountRegistrationTest - Account Information Page Url is: https://automationexercise.com/signup
+13:38:49.453 [main] INFO  testCases.TC_001_AccountRegistrationTest - Account Info Section title Validation: ENTER ACCOUNT INFORMATION
+13:38:49.453 [main] INFO  testCases.TC_001_AccountRegistrationTest - Add Account Information
+13:38:50.622 [main] INFO  testCases.TC_001_AccountRegistrationTest - [2] is selected in Dropdown
+13:38:50.904 [main] INFO  testCases.TC_001_AccountRegistrationTest - [April] is selected in Dropdown
+13:38:51.783 [main] INFO  testCases.TC_001_AccountRegistrationTest - [1976] is selected in Dropdown
+13:38:54.584 [main] INFO  testCases.TC_001_AccountRegistrationTest - [India] is selected in Dropdown
+13:39:01.352 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked Signup Create Account
+13:39:01.364 [main] INFO  testCases.TC_001_AccountRegistrationTest - Account Created Page Url Validation: https://automationexercise.com/account_created
+13:39:01.552 [main] INFO  testCases.TC_001_AccountRegistrationTest - ACCOUNT CREATED! Label Displayed
+13:39:14.683 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked Continue on ACCOUNT CREATED!
+13:39:14.692 [main] INFO  testCases.TC_001_AccountRegistrationTest - Home Page After Acct Created: https://automationexercise.com/
+13:39:15.515 [main] INFO  testCases.TC_001_AccountRegistrationTest - Delete Account Link Check true
+13:39:17.759 [main] INFO  testCases.TC_001_AccountRegistrationTest - Delete Account Link Clicked
+13:39:17.772 [main] INFO  testCases.TC_001_AccountRegistrationTest - Delete Account Url Displayed: https://automationexercise.com/delete_account
+13:39:24.719 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked Continue on Account Delete Page
+13:39:24.749 [main] INFO  testCases.TC_001_AccountRegistrationTest - Home Page After Acct Deleted: https://automationexercise.com/
+13:39:24.793 [main] INFO  testCases.TC_001_AccountRegistrationTest - Signup Link After Acct Delete
+13:39:24.793 [main] INFO  testCases.TC_001_AccountRegistrationTest - ******Ended TC_001_AccountRegistrationTest ****
+13:39:57.638 [main] INFO  testCases.TC_003_DDT_LoginTest - ******starting TC_003_DDT_LoginTest ****
+13:39:57.779 [main] INFO  testCases.TC_003_DDT_LoginTest - Signup Link Check true
+13:39:59.952 [main] INFO  testCases.TC_003_DDT_LoginTest - Signup/Login Link clicked
+13:40:00.970 [main] INFO  testCases.TC_003_DDT_LoginTest - Validated Login Header: Login to your account
+13:40:01.987 [main] INFO  testCases.TC_003_DDT_LoginTest - Login Details Entered
+13:40:08.230 [main] INFO  testCases.TC_003_DDT_LoginTest - Login Button Clicked
+13:40:08.362 [main] INFO  testCases.TC_003_DDT_LoginTest - Logged in user is: Logged in as TestName
+13:40:08.437 [main] INFO  testCases.TC_003_DDT_LoginTest - Logout Link Check true
+13:40:11.580 [main] INFO  testCases.TC_003_DDT_LoginTest - Logout Clicked
+13:40:11.595 [main] INFO  testCases.TC_003_DDT_LoginTest - ******starting TC_003_DDT_LoginTest ****
+13:40:11.707 [main] INFO  testCases.TC_003_DDT_LoginTest - Signup Link Check true
+13:40:13.551 [main] INFO  testCases.TC_003_DDT_LoginTest - Signup/Login Link clicked
+13:40:16.054 [main] INFO  testCases.TC_003_DDT_LoginTest - Validated Login Header: Login to your account
+13:40:16.889 [main] INFO  testCases.TC_003_DDT_LoginTest - Login Details Entered
+13:40:19.136 [main] INFO  testCases.TC_003_DDT_LoginTest - Login Button Clicked
+13:40:20.158 [main] INFO  testCases.TC_003_DDT_LoginTest - Expected Error MessageYour email or password is incorrect! ExistInvalid
+13:40:30.320 [main] INFO  testCases.TC_003_DDT_LoginTest - Login failed for Invalid
+13:40:50.421 [main] INFO  testCases.TC_003_DDT_LoginTest - Logout Link not exist: Passed
+13:40:50.431 [main] INFO  testCases.TC_003_DDT_LoginTest - ******starting TC_003_DDT_LoginTest ****
+13:40:50.516 [main] INFO  testCases.TC_003_DDT_LoginTest - Signup Link Check true
+13:40:54.442 [main] INFO  testCases.TC_003_DDT_LoginTest - Signup/Login Link clicked
+13:40:54.480 [main] INFO  testCases.TC_003_DDT_LoginTest - Validated Login Header: Login to your account
+13:40:55.395 [main] INFO  testCases.TC_003_DDT_LoginTest - Login Details Entered
+13:40:57.348 [main] INFO  testCases.TC_003_DDT_LoginTest - Login Button Clicked
+13:40:58.500 [main] INFO  testCases.TC_003_DDT_LoginTest - Expected Error MessageYour email or password is incorrect! ExistInvalid
+13:41:08.539 [main] INFO  testCases.TC_003_DDT_LoginTest - Login failed for Invalid
+13:41:28.660 [main] INFO  testCases.TC_003_DDT_LoginTest - Logout Link not exist: Passed
+13:41:28.669 [main] INFO  testCases.TC_003_DDT_LoginTest - ******starting TC_003_DDT_LoginTest ****
+13:41:28.740 [main] INFO  testCases.TC_003_DDT_LoginTest - Signup Link Check true
+13:41:30.559 [main] INFO  testCases.TC_003_DDT_LoginTest - Signup/Login Link clicked
+13:41:30.880 [main] INFO  testCases.TC_003_DDT_LoginTest - Validated Login Header: Login to your account
+13:41:32.175 [main] INFO  testCases.TC_003_DDT_LoginTest - Login Details Entered
+13:41:35.149 [main] INFO  testCases.TC_003_DDT_LoginTest - Login Button Clicked
+13:41:35.336 [main] INFO  testCases.TC_003_DDT_LoginTest - Expected Error MessageYour email or password is incorrect! ExistInvalid
+13:41:45.370 [main] INFO  testCases.TC_003_DDT_LoginTest - Login failed for Invalid
+13:42:05.468 [main] INFO  testCases.TC_003_DDT_LoginTest - Logout Link not exist: Passed
+13:42:05.477 [main] INFO  testCases.TC_003_DDT_LoginTest - ******starting TC_003_DDT_LoginTest ****
+13:42:05.571 [main] INFO  testCases.TC_003_DDT_LoginTest - Signup Link Check true
+13:42:07.694 [main] INFO  testCases.TC_003_DDT_LoginTest - Signup/Login Link clicked
+13:42:08.046 [main] INFO  testCases.TC_003_DDT_LoginTest - Validated Login Header: Login to your account
+13:42:09.237 [main] INFO  testCases.TC_003_DDT_LoginTest - Login Details Entered
+13:42:15.723 [main] INFO  testCases.TC_003_DDT_LoginTest - Login Button Clicked
+13:42:15.922 [main] INFO  testCases.TC_003_DDT_LoginTest - Logged in user is: Logged in as ValidTest
+13:42:15.993 [main] INFO  testCases.TC_003_DDT_LoginTest - Logout Link Check true
+13:42:19.631 [main] INFO  testCases.TC_003_DDT_LoginTest - Logout Clicked
+13:53:20.468 [main] INFO  testCases.TC_001_AccountRegistrationTest - ******starting TC_001_AccountRegistrationTest ****
+13:53:21.119 [main] INFO  testCases.TC_001_AccountRegistrationTest - Home Url Validation: https://automationexercise.com/
+13:53:21.260 [main] INFO  testCases.TC_001_AccountRegistrationTest - Signup Link Check true
+13:53:24.323 [main] INFO  testCases.TC_001_AccountRegistrationTest - Signup Link clicked
+13:53:24.336 [main] INFO  testCases.TC_001_AccountRegistrationTest - Login Page Url: https://automationexercise.com/login
+13:53:24.394 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validated Signup Page Title Header: New User Signup!
+13:53:24.395 [main] INFO  testCases.TC_001_AccountRegistrationTest - Entered Name and Email
+13:53:28.481 [main] INFO  testCases.TC_001_AccountRegistrationTest - Signup Link Clicked in Login Page
+13:53:28.559 [main] INFO  testCases.TC_001_AccountRegistrationTest - Valid Email and Name Entered 
+13:53:29.186 [main] INFO  testCases.TC_001_AccountRegistrationTest - Account Information Page Url is: https://automationexercise.com/signup
+13:53:29.217 [main] INFO  testCases.TC_001_AccountRegistrationTest - Account Info Section title Validation: ENTER ACCOUNT INFORMATION
+13:53:29.217 [main] INFO  testCases.TC_001_AccountRegistrationTest - Add Account Information
+13:53:30.691 [main] INFO  testCases.TC_001_AccountRegistrationTest - [2] is selected in Dropdown
+13:53:30.966 [main] INFO  testCases.TC_001_AccountRegistrationTest - [April] is selected in Dropdown
+13:53:31.857 [main] INFO  testCases.TC_001_AccountRegistrationTest - [1976] is selected in Dropdown
+13:53:34.859 [main] INFO  testCases.TC_001_AccountRegistrationTest - [India] is selected in Dropdown
+13:53:44.242 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked Signup Create Account
+13:53:44.256 [main] INFO  testCases.TC_001_AccountRegistrationTest - Account Created Page Url Validation: https://automationexercise.com/account_created
+13:53:44.450 [main] INFO  testCases.TC_001_AccountRegistrationTest - ACCOUNT CREATED! Label Displayed
+13:53:58.334 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked Continue on ACCOUNT CREATED!
+13:53:58.345 [main] INFO  testCases.TC_001_AccountRegistrationTest - Home Page After Acct Created: https://automationexercise.com/
+13:53:58.456 [main] INFO  testCases.TC_001_AccountRegistrationTest - Delete Account Link Check true
+13:54:02.327 [main] INFO  testCases.TC_001_AccountRegistrationTest - Delete Account Link Clicked
+13:54:02.347 [main] INFO  testCases.TC_001_AccountRegistrationTest - Delete Account Url Displayed: https://automationexercise.com/delete_account
+13:54:11.064 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked Continue on Account Delete Page
+13:54:11.082 [main] INFO  testCases.TC_001_AccountRegistrationTest - Home Page After Acct Deleted: https://automationexercise.com/
+13:54:11.121 [main] INFO  testCases.TC_001_AccountRegistrationTest - Signup Link After Acct Delete
+13:54:11.121 [main] INFO  testCases.TC_001_AccountRegistrationTest - ******Ended TC_001_AccountRegistrationTest ****
+13:56:57.709 [main] INFO  testCases.TC_001_AccountRegistrationTest - ******starting TC_001_AccountRegistrationTest ****
+13:56:59.988 [main] INFO  testCases.TC_001_AccountRegistrationTest - Home Url Validation: https://automationexercise.com/
+13:57:00.342 [main] INFO  testCases.TC_001_AccountRegistrationTest - Signup Link Check true
+13:57:02.373 [main] INFO  testCases.TC_001_AccountRegistrationTest - Signup Link clicked
+13:57:02.398 [main] INFO  testCases.TC_001_AccountRegistrationTest - Login Page Url: https://automationexercise.com/login
+13:57:02.968 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validated Signup Page Title Header: New User Signup!
+13:57:02.968 [main] INFO  testCases.TC_001_AccountRegistrationTest - Entered Name and Email
+13:57:25.106 [main] INFO  testCases.TC_001_AccountRegistrationTest - Signup Link Clicked in Login Page
+13:57:25.185 [main] INFO  testCases.TC_001_AccountRegistrationTest - Valid Email and Name Entered 
+13:57:25.195 [main] INFO  testCases.TC_001_AccountRegistrationTest - Account Information Page Url is: https://automationexercise.com/signup
+13:57:25.225 [main] INFO  testCases.TC_001_AccountRegistrationTest - Account Info Section title Validation: ENTER ACCOUNT INFORMATION
+13:57:25.225 [main] INFO  testCases.TC_001_AccountRegistrationTest - Add Account Information
+13:57:26.927 [main] INFO  testCases.TC_001_AccountRegistrationTest - [2] is selected in Dropdown
+13:57:27.227 [main] INFO  testCases.TC_001_AccountRegistrationTest - [April] is selected in Dropdown
+13:57:28.231 [main] INFO  testCases.TC_001_AccountRegistrationTest - [1976] is selected in Dropdown
+13:57:32.709 [main] INFO  testCases.TC_001_AccountRegistrationTest - [India] is selected in Dropdown
+13:57:37.730 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked Signup Create Account
+13:57:37.743 [main] INFO  testCases.TC_001_AccountRegistrationTest - Account Created Page Url Validation: https://automationexercise.com/account_created
+13:57:38.171 [main] INFO  testCases.TC_001_AccountRegistrationTest - ACCOUNT CREATED! Label Displayed
+13:57:50.158 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked Continue on ACCOUNT CREATED!
+13:57:50.175 [main] INFO  testCases.TC_001_AccountRegistrationTest - Home Page After Acct Created: https://automationexercise.com/
+13:57:50.674 [main] INFO  testCases.TC_001_AccountRegistrationTest - Delete Account Link Check true
+13:57:52.938 [main] INFO  testCases.TC_001_AccountRegistrationTest - Delete Account Link Clicked
+13:57:52.948 [main] INFO  testCases.TC_001_AccountRegistrationTest - Delete Account Url Displayed: https://automationexercise.com/delete_account
+13:57:59.697 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked Continue on Account Delete Page
+13:57:59.719 [main] INFO  testCases.TC_001_AccountRegistrationTest - Home Page After Acct Deleted: https://automationexercise.com/
+13:57:59.766 [main] INFO  testCases.TC_001_AccountRegistrationTest - Signup Link After Acct Delete
+13:57:59.766 [main] INFO  testCases.TC_001_AccountRegistrationTest - ******Ended TC_001_AccountRegistrationTest ****
+14:50:03.140 [main] INFO  testCases.TC_001_AccountRegistrationTest - ******starting TC_001_AccountRegistrationTest ****
+14:50:03.974 [main] INFO  testCases.TC_001_AccountRegistrationTest - Home Url Validation: https://automationexercise.com/
+14:50:04.364 [main] INFO  testCases.TC_001_AccountRegistrationTest - Signup Link Check true
+14:50:13.780 [main] INFO  testCases.TC_001_AccountRegistrationTest - Signup Link clicked
+14:50:13.791 [main] INFO  testCases.TC_001_AccountRegistrationTest - Login Page Url: https://automationexercise.com/login
+14:50:14.024 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validated Signup Page Title Header: New User Signup!
+14:50:14.024 [main] INFO  testCases.TC_001_AccountRegistrationTest - Entered Name and Email
+14:50:29.110 [main] INFO  testCases.TC_001_AccountRegistrationTest - Signup Link Clicked in Login Page
+14:50:29.204 [main] INFO  testCases.TC_001_AccountRegistrationTest - Valid Email and Name Entered 
+14:50:29.213 [main] INFO  testCases.TC_001_AccountRegistrationTest - Account Information Page Url is: https://automationexercise.com/signup
+14:50:30.443 [main] INFO  testCases.TC_001_AccountRegistrationTest - Account Info Section title Validation: ENTER ACCOUNT INFORMATION
+14:50:30.443 [main] INFO  testCases.TC_001_AccountRegistrationTest - Add Account Information
+14:50:33.055 [main] INFO  testCases.TC_001_AccountRegistrationTest - [2] is selected in Dropdown
+14:50:33.297 [main] INFO  testCases.TC_001_AccountRegistrationTest - [April] is selected in Dropdown
+14:50:34.168 [main] INFO  testCases.TC_001_AccountRegistrationTest - [1976] is selected in Dropdown
+14:50:36.995 [main] INFO  testCases.TC_001_AccountRegistrationTest - [India] is selected in Dropdown
+14:50:42.189 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked Signup Create Account
+14:50:42.218 [main] INFO  testCases.TC_001_AccountRegistrationTest - Account Created Page Url Validation: https://automationexercise.com/account_created
+14:50:42.802 [main] INFO  testCases.TC_001_AccountRegistrationTest - ACCOUNT CREATED! Label Displayed
+14:50:48.424 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked Continue on ACCOUNT CREATED!
+14:50:48.443 [main] INFO  testCases.TC_001_AccountRegistrationTest - Home Page After Acct Created: https://automationexercise.com/
+14:50:48.562 [main] INFO  testCases.TC_001_AccountRegistrationTest - Delete Account Link Check true
+14:50:50.086 [main] INFO  testCases.TC_001_AccountRegistrationTest - Delete Account Link Clicked
+14:50:50.101 [main] INFO  testCases.TC_001_AccountRegistrationTest - Delete Account Url Displayed: https://automationexercise.com/delete_account
+14:50:58.776 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked Continue on Account Delete Page
+14:50:58.798 [main] INFO  testCases.TC_001_AccountRegistrationTest - Home Page After Acct Deleted: https://automationexercise.com/
+14:50:58.850 [main] INFO  testCases.TC_001_AccountRegistrationTest - Signup Link After Acct Delete
+14:50:58.850 [main] INFO  testCases.TC_001_AccountRegistrationTest - ******Ended TC_001_AccountRegistrationTest ****
+14:51:45.811 [main] INFO  testCases.TC_003_DDT_LoginTest - ******starting TC_003_DDT_LoginTest ****
+14:51:45.925 [main] INFO  testCases.TC_003_DDT_LoginTest - Signup Link Check true
+14:51:47.918 [main] INFO  testCases.TC_003_DDT_LoginTest - Signup/Login Link clicked
+14:51:48.062 [main] INFO  testCases.TC_003_DDT_LoginTest - Validated Login Header: Login to your account
+14:51:49.437 [main] INFO  testCases.TC_003_DDT_LoginTest - Login Details Entered
+14:51:55.205 [main] INFO  testCases.TC_003_DDT_LoginTest - Login Button Clicked
+14:51:55.312 [main] INFO  testCases.TC_003_DDT_LoginTest - Logged in user is: Logged in as TestName
+14:52:00.969 [main] INFO  testCases.TC_003_DDT_LoginTest - Logout Link Check true
+14:52:13.843 [main] INFO  testCases.TC_003_DDT_LoginTest - Logout Clicked
+14:52:13.849 [main] INFO  testCases.TC_003_DDT_LoginTest - ******starting TC_003_DDT_LoginTest ****
+14:52:13.936 [main] INFO  testCases.TC_003_DDT_LoginTest - Signup Link Check true
+14:52:18.913 [main] INFO  testCases.TC_003_DDT_LoginTest - Signup/Login Link clicked
+14:52:18.953 [main] INFO  testCases.TC_003_DDT_LoginTest - Validated Login Header: Login to your account
+14:52:20.727 [main] INFO  testCases.TC_003_DDT_LoginTest - Login Details Entered
+14:52:23.872 [main] INFO  testCases.TC_003_DDT_LoginTest - Login Button Clicked
+14:52:24.078 [main] INFO  testCases.TC_003_DDT_LoginTest - Expected Error MessageYour email or password is incorrect! ExistInvalid
+14:52:34.268 [main] INFO  testCases.TC_003_DDT_LoginTest - Login failed for Invalid
+14:52:54.339 [main] INFO  testCases.TC_003_DDT_LoginTest - Logout Link not exist: Passed
+14:52:54.341 [main] INFO  testCases.TC_003_DDT_LoginTest - ******starting TC_003_DDT_LoginTest ****
+14:52:54.406 [main] INFO  testCases.TC_003_DDT_LoginTest - Signup Link Check true
+14:53:00.117 [main] INFO  testCases.TC_003_DDT_LoginTest - Signup/Login Link clicked
+14:53:00.175 [main] INFO  testCases.TC_003_DDT_LoginTest - Validated Login Header: Login to your account
+14:53:01.425 [main] INFO  testCases.TC_003_DDT_LoginTest - Login Details Entered
+14:53:03.491 [main] INFO  testCases.TC_003_DDT_LoginTest - Login Button Clicked
+14:53:04.286 [main] INFO  testCases.TC_003_DDT_LoginTest - Expected Error MessageYour email or password is incorrect! ExistInvalid
+14:53:14.333 [main] INFO  testCases.TC_003_DDT_LoginTest - Login failed for Invalid
+14:53:34.449 [main] INFO  testCases.TC_003_DDT_LoginTest - Logout Link not exist: Passed
+14:53:34.455 [main] INFO  testCases.TC_003_DDT_LoginTest - ******starting TC_003_DDT_LoginTest ****
+14:53:34.568 [main] INFO  testCases.TC_003_DDT_LoginTest - Signup Link Check true
+14:53:36.790 [main] INFO  testCases.TC_003_DDT_LoginTest - Signup/Login Link clicked
+14:53:36.842 [main] INFO  testCases.TC_003_DDT_LoginTest - Validated Login Header: Login to your account
+14:53:37.995 [main] INFO  testCases.TC_003_DDT_LoginTest - Login Details Entered
+14:53:40.450 [main] INFO  testCases.TC_003_DDT_LoginTest - Login Button Clicked
+14:53:40.550 [main] INFO  testCases.TC_003_DDT_LoginTest - Expected Error MessageYour email or password is incorrect! ExistInvalid
+14:53:50.572 [main] INFO  testCases.TC_003_DDT_LoginTest - Login failed for Invalid
+14:54:10.756 [main] INFO  testCases.TC_003_DDT_LoginTest - Logout Link not exist: Passed
+14:54:10.762 [main] INFO  testCases.TC_003_DDT_LoginTest - ******starting TC_003_DDT_LoginTest ****
+14:54:10.829 [main] INFO  testCases.TC_003_DDT_LoginTest - Signup Link Check true
+14:54:13.283 [main] INFO  testCases.TC_003_DDT_LoginTest - Signup/Login Link clicked
+14:54:13.321 [main] INFO  testCases.TC_003_DDT_LoginTest - Validated Login Header: Login to your account
+14:54:14.494 [main] INFO  testCases.TC_003_DDT_LoginTest - Login Details Entered
+14:54:22.044 [main] INFO  testCases.TC_003_DDT_LoginTest - Login Button Clicked
+14:54:22.244 [main] INFO  testCases.TC_003_DDT_LoginTest - Logged in user is: Logged in as ValidTest
+14:54:22.314 [main] INFO  testCases.TC_003_DDT_LoginTest - Logout Link Check true
+14:54:25.256 [main] INFO  testCases.TC_003_DDT_LoginTest - Logout Clicked
